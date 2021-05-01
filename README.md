@@ -1,5 +1,7 @@
 # NLP_dataset_construction(portfolio)
 
+### | 데이터 구축 관련 프로젝트 명세
+
 |  Year |  <center>Projects</center> |  Agency  |
 |:--------:|--------|:--------:|
 |**2018.03.15. ~ 2018.11.30.**| **자동번역을 위한 다국어 개체명 인식의 성능 개선에 관한 연구** <br> -	한국어 개체명 인식 말뭉치 구축(https://github.com/kmounlp/NER) <br> -	총 22,135 문장, 9개 범주 <br> -	언어정보 부착 시스템(LiAS) 이용 | 한국전자통신연구원 |
