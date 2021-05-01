@@ -1,4 +1,4 @@
-# NLP_dataset_construction(portfolio)
+# NLP dataset construction
 
 ### | 데이터 구축 관련 프로젝트 명세
 
